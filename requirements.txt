@@ -1,0 +1,8 @@
+streamlit
+pillow
+python-docx
+langchain
+langchain-core
+langchain_google_genai
+python-dotenv
+langchain-community
